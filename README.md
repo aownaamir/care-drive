@@ -44,7 +44,6 @@ CareDrive aims to streamline the process of managing patient appointments in hea
 Here are some screenshots of the CareDrive application:
 
 ### User Sign Up
-<img src="file:///A:/Plz.....Study/Emrchains/TrackLib%20(webscraper)/public/assets/images/trending.svg" width="400px" />
 ![image](https://github.com/user-attachments/assets/d7f7d961-79fb-4958-9017-1d44d4e774ac)
 
 
