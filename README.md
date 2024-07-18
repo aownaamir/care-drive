@@ -12,7 +12,6 @@ CareDrive is a patient management system that allows patients to register, sign 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#lisence)
 
 ## Introduction
 
