@@ -20,24 +20,24 @@ CareDrive aims to streamline the process of managing patient appointments in hea
 
 ## Features
 
-- User Registration and Authentication: Patients can create accounts and log in securely.
-- Appointment Scheduling: Patients can schedule one or more appointments with their preferred doctors.
-- Admin Dashboard: Admins can view all scheduled appointments and manage them by approving, canceling, or leaving them pending.
-- Responsive Design: The application is responsive and works well on various devices.
+- **User Registration and Authentication:** Patients can create accounts and log in securely.
+- **Appointment Scheduling:** Patients can schedule one or more appointments with their preferred doctors.
+- **Admin Dashboard:** Admins can view all scheduled appointments and manage them by approving, canceling, or leaving them pending.
+- **Responsive Design:** The application is responsive and works well on various devices.
 
 ## Tech Stack
 
-- Next.js: Framework for server-side rendering and building React applications.
-- React: JavaScript library for building user interfaces.
-- Tailwind CSS: Utility-first CSS framework for styling.
-- Node.js: JavaScript runtime for server-side development.
+- **Next.js:** Framework for server-side rendering and building React applications.
+- **React:** JavaScript library for building user interfaces.
+- **Tailwind CSS:** Utility-first CSS framework for styling.
+- **Appwrite:** Backend as a service for server-side development.
 
 ## Learnings
 
-- Next.js: Improved understanding of server-side rendering and static site generation.
-- React: Enhanced skills in building dynamic and interactive user interfaces.
-- Tailwind CSS: Learned to efficiently style components using utility classes.
-- Full-Stack Development: Gained experience in integrating frontend and backend technologies to create a cohesive application.
+- **Next.js:** Improved understanding of server-side rendering and static site generation.
+- **React:** Enhanced skills in building dynamic and interactive user interfaces.
+- **Tailwind CSS:** Learned to efficiently style components using utility classes.
+- **Full-Stack Development:** Gained experience in integrating frontend and backend technologies to create a cohesive application.
 
 ## ScreenShots
 
