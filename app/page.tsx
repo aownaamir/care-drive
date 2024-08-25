@@ -21,13 +21,13 @@ const Home = ({ searchParams }: SearchParamProps) => {
               alt="patient"
               className="mb-12 h-10 w-fit"
             />
-            <Image
+            {/* <Image
               src="/assets/icons/icon.png"
               height={1000}
               width={1000}
               alt="patient"
               className="mb-12 h-10 w-fit"
-            />
+            /> */}
           </div>
 
           <PatientForm />
