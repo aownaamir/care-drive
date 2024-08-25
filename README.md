@@ -93,3 +93,12 @@ To run CareDrive locally, follow these steps:
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or new features to add.
+
+## Usage
+
+- Patient: Register or log in to schedule appointments.
+- Admin: Log in to the dashboard to manage appointments.
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or new features to add.
